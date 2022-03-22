@@ -2,8 +2,8 @@
 	"clusters": [
 		{
 			"vk": {
-				"token": "Токен от станицы или группы ВКонтакте",
-				"group_id": "club1",
+				"token": "df73d9988a15fac62a63c9942ecd2dbffd1fc56ab12bdf41da22be4dfb38468f51c8fe3781049752e15b7",
+				"group_id": "ram_pressure",
 				"keywords": [],
 				"words_blacklist": [],
 				"filter": true,
@@ -13,12 +13,12 @@
 			},
 			"discord": {
 				"webhook_urls": [
-					"https://discordapp.com/api/webhooks/"
+					"https://discord.com/api/webhooks/955811867949940806/GLAt2CHRmm69FdoSDlW__RgrnwgNoc7tlyKHoowlsCWpZmnbYwXdkx0dAQTxCsXvKqeM"
 				],
 				"username": "",
 				"avatar_url": "",
-				"content": "",
-				"color": "#aabbcc",
+				"content": "В ВКонтакте новая запись! Ознакомимся @everyone",
+				"color": "#57120f",
 				"author": true,
 				"copyright": true,
 				"date": true,
